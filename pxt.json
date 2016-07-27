@@ -1,0 +1,16 @@
+{
+    "name": "beats",
+    "version": "0.0.0",
+    "description": "Plays beats!",
+    "license": "MIT",
+    "dependencies": {
+        "microbit": "*",
+        "microbit-radio": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [],
+    "public": true
+}
